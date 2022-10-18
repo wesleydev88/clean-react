@@ -11,7 +11,7 @@
     "url": "git@github.com-personal:wesleydev88/clean-react.git"
   },
   "keywords": [],
-  "author": "Wesley Santos",
+  "author": "Wesley Pereira dos Santos",
   "license": "ISC",
   "devDependencies": {
     "git-commit-msg-linter": "^4.1.3"
